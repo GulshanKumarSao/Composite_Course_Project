@@ -1,3 +1,4 @@
-# Battery Thermal Managament System
-Three-dimensional CFD model with forced air cooling are developed for battery modules.
-Investigated the impact of air cooling strategies, module structures and inter-cell spacing to recommend optimal design solutions.
+# Composite Course Project
+ Built a hydrid composite of glass and carbon fiber with epoxy resin using VARTM process.
+ Performed tensile and bending tests on the hybrid composite in UTM.
+
